@@ -1,2 +1,2 @@
-Please check the link below for the answer!
+Please check this link for the answer!
 https://github.com/appdulrahman/ds-task
